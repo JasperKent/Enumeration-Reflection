@@ -8,7 +8,7 @@ namespace EnumerationReflection
     public static class Callsigns
     {
         public const string BAW = "Speedbird";
-        public const string DLH = "Lutfhansa";
+        public const string DLH = "Lufthansa";
         public const string KLM = "KLM";
         public const string VIR = "Virgin";
         public const string VIK = "SwedJet";
